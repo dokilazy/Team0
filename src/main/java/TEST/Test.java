@@ -3,13 +3,7 @@ package TEST;
 public class Test {
 		// XIN  CHAO 
 	
-	// TEAM 2 XIN CHAO MN ^^
+		// TEAM 3 XIN CHAO
 	
-	
-	
-	
-	
-	
+		// HELLO TEACHER
 }
-
-

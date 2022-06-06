@@ -6,7 +6,7 @@ public class Test {
 
 		// Hello Teacher
 
-	   // team1 xin chao
+	   // team1 hello
 	
 		// Hello Teacher
 	

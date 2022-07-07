@@ -1,17 +1,27 @@
 package TEST;
 
 public class Test {
-		// XIN  CHAO 
 	
+	public void TC_H1_verify_page_title() {
 
-		// Hello Teacher
-
-	   // Helloooooooooo
 	
-		// Hello Teacher
+	}
 	
 	
-		// Change my code	
+	public void TC_H2_verify_lastest_articles_items() {
 	
-// asddssadasdasd
+		
+	}
+	
+	
+	public void TC_H3_verify_() {
+			
+		
+	}
+	
+	
+	public void TC_H4_verify_() {
+				
+		
+	}
 }

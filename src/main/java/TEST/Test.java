@@ -34,5 +34,12 @@ public class Test {
 	}
 
 	
+	
+	public void TC_H8_verify_merging() {
+				
+		
+	}
+	
+	
 
 }
